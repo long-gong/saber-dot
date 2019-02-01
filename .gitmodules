@@ -1,0 +1,45 @@
+[submodule "vim-indent-guides"]
+	path = .vim/bundle/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "supertab"]
+	path = .vim/bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "NERDtree.git"]
+	path = .vim/bundle/NERDtree.git
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "gitv.git"]
+	path = .vim/bundle/gitv.git
+	url = https://github.com/gregsexton/gitv.git
+[submodule "fugitive.vim"]
+	path = .vim/bundle/fugitive.vim
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "easymotion.git"]
+	path = .vim/bundle/easymotion.git
+	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "vim-dict"]
+	path = .vim/bundle/vim-dict
+	url = https://github.com/szw/vim-dict.git
+[submodule "vim-surround"]
+	path = .vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "skittles_berry.git"]
+	path = .vim/bundle/skittles_berry.git
+	url = https://github.com/shawncplus/skittles_berry.git
+[submodule "YouCompleteMe"]
+	path = .vim/bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "send"]
+	path = .oh-my-zsh/custom/plugins/send
+	url = https://github.com/robertzk/send.zsh.git
+[submodule "zsh-syntax-highlighting"]
+	path = .oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "alias-tips"]
+	path = .oh-my-zsh/custom/plugins/alias-tips
+	url = https://github.com/djui/alias-tips.git
+[submodule "powerlevel9k"]
+	path = .oh-my-zsh/custom/themes/powerlevel9k
+	url = https://github.com/bhilburn/powerlevel9k.git
