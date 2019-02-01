@@ -31,15 +31,3 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = https://github.com/robbyrussell/oh-my-zsh.git
-[submodule "send"]
-	path = .oh-my-zsh/custom/plugins/send
-	url = https://github.com/robertzk/send.zsh.git
-[submodule "zsh-syntax-highlighting"]
-	path = .oh-my-zsh/custom/plugins/zsh-syntax-highlighting
-	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
-[submodule "alias-tips"]
-	path = .oh-my-zsh/custom/plugins/alias-tips
-	url = https://github.com/djui/alias-tips.git
-[submodule "powerlevel9k"]
-	path = .oh-my-zsh/custom/themes/powerlevel9k
-	url = https://github.com/bhilburn/powerlevel9k.git
